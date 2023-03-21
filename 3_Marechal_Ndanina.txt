@@ -1,2 +1,4 @@
 Marechal Baptiste
 Ndanina Rodrigue
+
+Dans la branche master on a seulement ajouter le fichier test.txt on ne retrouve donc pas 3_Marechal_Ndanina.txt qui se trouve uniquement dans la branche mon_fichier.
